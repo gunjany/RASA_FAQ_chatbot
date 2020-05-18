@@ -1,0 +1,1 @@
+Stores the results like failed_stories.md
