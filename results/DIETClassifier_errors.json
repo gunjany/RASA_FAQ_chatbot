@@ -1,0 +1,68 @@
+[
+  {
+    "text": "When will be the train from mumbai to jaipur",
+    "entities": [
+      {
+        "start": 28,
+        "end": 34,
+        "value": "mumbai",
+        "entity": "source"
+      },
+      {
+        "start": 38,
+        "end": 44,
+        "value": "jaipur",
+        "entity": "destination"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "destination",
+        "start": 28,
+        "end": 34,
+        "value": "mumbai",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "destination",
+        "start": 38,
+        "end": 44,
+        "value": "jaipur",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "When will be the flight from mumbai to jaipur",
+    "entities": [
+      {
+        "start": 29,
+        "end": 35,
+        "value": "mumbai",
+        "entity": "source"
+      },
+      {
+        "start": 39,
+        "end": 45,
+        "value": "jaipur",
+        "entity": "destination"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "destination",
+        "start": 29,
+        "end": 35,
+        "value": "mumbai",
+        "extractor": "DIETClassifier"
+      },
+      {
+        "entity": "destination",
+        "start": 39,
+        "end": 45,
+        "value": "jaipur",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  }
+]
